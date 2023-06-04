@@ -1,4 +1,4 @@
-package com.ipap.springbootwebsockets;
+package com.ipap.springbootwebsockets.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
